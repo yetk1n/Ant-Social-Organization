@@ -1,6 +1,6 @@
 # Ant-Social-Organization
 
-Graph Theory class project completed during the 2021 Fall semester in ITU.
+Graph Theory class project completed as the best project during the 2021 Fall semester in ITU.
 
 [<div align="center"><img src="https://img.youtube.com/vi/hxqGx74hsUc/maxresdefault.jpg" width="70%"></div>](https://youtu.be/hxqGx74hsUc)
 
